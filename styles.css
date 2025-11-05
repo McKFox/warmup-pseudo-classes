@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+a {
+    color:darkorange;
+}
+
+a:hover {
+    color:blue;
+    text-decoration:dashed;
+}
+
+a:active {
+    color:pink;
+}
+
+a:focus {
+    color:darkorchid;
+    border: 4px solid red;
+}
+
+a:visited {
+    color:darkolivegreen;
+}

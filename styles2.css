@@ -1,0 +1,12 @@
+.box {
+    height:200px;
+    width: 100px;
+    background-color: darkgoldenrod;
+    transition: 300ms;
+}
+
+.box:hover {
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+}
